@@ -1,45 +1,53 @@
-<h1 align="center">Hi 👋, I'm Bobbili Sai Chandrakanth</h1>
+# Hi 👋, I'm Bobbili Sai Chandrakanth
 
-<h3 align="center">
-🚀 Java Backend Developer • DSA Enthusiast • Spring Boot • Microservices
-</h3>
-
-<p align="center">
-🎓 B.Tech CSE @ Parul University • 🇮🇳 India
-</p>
+🚀 Java Backend Developer | DSA Enthusiast | Spring Boot • Microservices • REST APIs  
+🎓 B.Tech CSE @ Parul University  
+📍 India
 
 ---
 
 ## 👨‍💻 About Me
 
-- ☕ Passionate about **Java Backend Development**
-- 🧩 Solved **400+ DSA Problems** and actively solving more
-- 🚀 Building backend applications with **Java, Spring Boot & Microservices**
-- 🔐 Interested in **Spring Security, REST APIs & Database Design**
+- ☕ Passionate about Java Backend Development
+- 🧩 Solved **400+ DSA problems** and actively solving more
+- 🚀 Building backend applications with Java and Spring Boot
+- 🔐 Interested in **Microservices, Scalable Backend Systems, Spring Security, REST APIs, and Database Design**
 
 ---
 
 ## 📊 DSA
 
-- 💻 **400+ Problems Solved**
-- 🧠 Active on **LeetCode** & **GeeksforGeeks**
-- ⚡ Consistently improving problem-solving skills
+- 💻 Solved **400+ problems** across LeetCode & GeeksforGeeks
+- ⚡ Regularly practicing Data Structures & Algorithms
+- 🎯 Strengthening problem-solving and algorithmic thinking
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-`Java` • `SQL`
+### ☕ Languages
+- Java
+- SQL
 
 ### ⚙️ Backend
-`Spring Boot` • `Spring MVC` • `Spring Security` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `Microservices`
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
 
 ### 🗄️ Database
-`MySQL`
+- MySQL
 
 ### 🔧 Tools
-`Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA` • `VS Code`
+- Git
+- GitHub
+- Maven
+- Postman
+- IntelliJ IDEA
+- VS Code
 
 ---
 
@@ -64,14 +72,9 @@
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:**  
-https://linkedin.com/in/sai-chandra-kanth-bobbili
-
-🧠 **LeetCode:**  
-https://leetcode.com/u/Sai_Chandrakanth/
-
-📧 **Email:**  
-saichandhrakanthbobbili@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/sai-chandra-kanth-bobbili
+- 🧠 **LeetCode:** https://leetcode.com/u/Sai_Chandrakanth/
+- 📧 **Email:** saichandhrakanthbobbili@gmail.com
 
 ---
 
@@ -79,10 +82,8 @@ saichandhrakanthbobbili@gmail.com
 
 - 🧩 Solving DSA consistently
 - ☕ Building Java Backend projects
-- 🚀 Exploring scalable backend architectures
+- 🚀 Exploring Microservices and scalable backend development
 
 ---
 
-<p align="center">
-  <b>💡 "Keep solving. Keep building. Keep improving."</b> 🚀
-</p>
+> ### 💡 *"Consistency builds expertise. Keep solving. Keep building. Keep improving."* 🚀
