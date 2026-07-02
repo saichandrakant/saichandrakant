@@ -1,24 +1,21 @@
-<h1 align="center">Hi 👋, I'm Bobbili Sai Chandrakanth</h1>
-<h3 align="center">🚀 Java Backend Developer | Spring Boot • Microservices • REST APIs</h3>
+# Hi 👋, I'm Bobbili Sai Chandrakanth
 
-<p align="center">
-Building scalable backend systems with Java and Spring Boot.<br>
-Passionate about Microservices, Spring Security, and solving Data Structures & Algorithms problems.
-</p>
-
----
+🚀 Java Backend Developer | DSA Enthusiast | Spring Boot • Microservices • REST APIs  
+🎓 B.Tech CSE @ Parul University  
+📍 India
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student at Parul University
-- ☕ Java Backend Developer
-- 🌱 Currently learning **Microservices, Distributed Systems & System Design**
-- 💻 Skilled in **Spring Boot, Spring Security, Spring Data JPA, REST APIs**
-- 🧩 Solved **400+ DSA problems** on coding platforms
-- 🚀 Interested in building scalable backend applications
-- 📫 Reach me at **saichandhrakanthbobbili@gmail.com**
+- ☕ Passionate about Java Backend Development
+- 🧩 Solved **400+ DSA problems** and actively solving more
+- 🚀 Building backend applications with Java, Spring Boot, and Microservices
+- 🔐 Interested in Spring Security, REST APIs, and Database Design
 
----
+## 📊 DSA
+
+- 💻 Solved **400+ problems** across LeetCode & GeeksforGeeks
+- ⚡ Actively solving Data Structures & Algorithms problems
+- 🎯 Continuously improving problem-solving skills
 
 ## 🛠️ Tech Stack
 
@@ -46,18 +43,15 @@ Passionate about Microservices, Spring Security, and solving Data Structures & A
 - IntelliJ IDEA
 - VS Code
 
----
-
 ## 🚀 Featured Projects
 
 ### 🛒 ShopSphere – E-Commerce Microservices Backend
-- Spring Boot 3 Microservices
+- Spring Boot 3
 - JWT Authentication
 - Spring Security
 - API Gateway
 - Eureka Service Discovery
 - MySQL
-- REST APIs
 
 ### 🚚 Smart Supply Chain Optimizer
 - Spring Boot Backend
@@ -66,14 +60,18 @@ Passionate about Microservices, Spring Security, and solving Data Structures & A
 - RestTemplate
 - MySQL
 
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/sai-chandra-kanth-bobbili
+- 🧠 LeetCode: https://leetcode.com/u/Sai_Chandrakanth/
+- 📧 Email: saichandhrakanthbobbili@gmail.com
+
+## 🎯 Current Focus
+
+- 🧩 Solving DSA consistently
+- ☕ Building Java Backend projects
+- 🚀 Exploring scalable backend architectures
+
 ---
 
-## 📊 Coding
-
-- 🧩 400+ DSA Problems Solved
-- 💡 Strong in Data Structures & Algorithms
-- 📚 Constantly improving problem-solving skills
-
----
-
-⭐ Thanks for visiting my profile!
+> **"Keep solving. Keep building. Keep improving."** 🚀
