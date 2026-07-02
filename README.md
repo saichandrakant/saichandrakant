@@ -1,47 +1,47 @@
-# Hi 👋, I'm Bobbili Sai Chandrakanth
+<h1 align="center">Hi 👋, I'm Bobbili Sai Chandrakanth</h1>
 
-🚀 Java Backend Developer | DSA Enthusiast | Spring Boot • Microservices • REST APIs  
-🎓 B.Tech CSE @ Parul University  
-📍 India
+<h3 align="center">
+🚀 Java Backend Developer • DSA Enthusiast • Spring Boot • Microservices
+</h3>
+
+<p align="center">
+🎓 B.Tech CSE @ Parul University • 🇮🇳 India
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- ☕ Passionate about Java Backend Development
-- 🧩 Solved **400+ DSA problems** and actively solving more
-- 🚀 Building backend applications with Java, Spring Boot, and Microservices
-- 🔐 Interested in Spring Security, REST APIs, and Database Design
+- ☕ Passionate about **Java Backend Development**
+- 🧩 Solved **400+ DSA Problems** and actively solving more
+- 🚀 Building backend applications with **Java, Spring Boot & Microservices**
+- 🔐 Interested in **Spring Security, REST APIs & Database Design**
+
+---
 
 ## 📊 DSA
 
-- 💻 Solved **400+ problems** across LeetCode & GeeksforGeeks
-- ⚡ Actively solving Data Structures & Algorithms problems
-- 🎯 Continuously improving problem-solving skills
+- 💻 **400+ Problems Solved**
+- 🧠 Active on **LeetCode** & **GeeksforGeeks**
+- ⚡ Consistently improving problem-solving skills
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Java
-- SQL
+### 👨‍💻 Languages
+`Java` • `SQL`
 
-### Backend
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Microservices
+### ⚙️ Backend
+`Spring Boot` • `Spring MVC` • `Spring Security` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `Microservices`
 
-### Database
-- MySQL
+### 🗄️ Database
+`MySQL`
 
-### Tools
-- Git
-- GitHub
-- Maven
-- Postman
-- IntelliJ IDEA
-- VS Code
+### 🔧 Tools
+`Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA` • `VS Code`
+
+---
 
 ## 🚀 Featured Projects
 
@@ -60,11 +60,20 @@
 - RestTemplate
 - MySQL
 
+---
+
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/sai-chandra-kanth-bobbili
-- 🧠 LeetCode: https://leetcode.com/u/Sai_Chandrakanth/
-- 📧 Email: saichandhrakanthbobbili@gmail.com
+💼 **LinkedIn:**  
+https://linkedin.com/in/sai-chandra-kanth-bobbili
+
+🧠 **LeetCode:**  
+https://leetcode.com/u/Sai_Chandrakanth/
+
+📧 **Email:**  
+saichandhrakanthbobbili@gmail.com
+
+---
 
 ## 🎯 Current Focus
 
@@ -74,4 +83,6 @@
 
 ---
 
-> **"Keep solving. Keep building. Keep improving."** 🚀
+<p align="center">
+  <b>💡 "Keep solving. Keep building. Keep improving."</b> 🚀
+</p>
